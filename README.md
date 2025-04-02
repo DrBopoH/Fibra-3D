@@ -1,2 +1,2 @@
 # 3dengine
-PET project 3dEngine with me end beholder
+PET project 3dEngine with me, wisp and beholder
